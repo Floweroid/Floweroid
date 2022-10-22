@@ -1,4 +1,4 @@
-👋 Hi, I’m @Floweroid
+👋 Hey there, I’m @Floweroid
 
 👀 I’m interested in Software Engineering
 
