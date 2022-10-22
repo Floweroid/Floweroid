@@ -9,8 +9,8 @@
 💞️ I’m looking to involve in **Software Engineering Intern in 23Summer**
 
 📫 How to reach me ...
-- e-mail: zlin48@syr.edu
-- Linkin: https://www.linkedin.com/in/zekai-lin-357ba8195/
+- e-mail: <zlin48@syr.edu>
+- Linkin: <https://www.linkedin.com/in/zekai-lin-357ba8195/>
 
 
 <!---
